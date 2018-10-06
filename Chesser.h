@@ -10,7 +10,7 @@ class Chesser {
 public:
     virtual void moveChess() = 0;
 
-    virtual void moveMEthod() = 0;
+    virtual void moveMethod() = 0;
 
     virtual void regretChess() = 0;
 };
